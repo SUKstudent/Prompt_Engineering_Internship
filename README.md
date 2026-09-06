@@ -1,6 +1,6 @@
 # Decode Labs
 ## Prompt Engineering
-# Zero-Shot & Few-Shot Data Extraction using Gemini
+## Zero-Shot & Few-Shot Data Extraction using Gemini
 
 ## Project Goal
 
@@ -35,7 +35,7 @@ Extract the following information from the text:
 - city
 - email
 
-Rules:
+## Rules:
 1. Return JSON only.
 2. Do not use markdown code blocks.
 3. Do not add any explanation or conversational text.
@@ -43,16 +43,18 @@ Rules:
 5. Keep the exact information found in the input.
 6. The output must be valid JSON.
 Few-Shot Examples
-Example 1
 
-Input:
+### Example 1
+
+### Input:
 
 Aman Verma is 28 years old and works at TCS.
 He lives in Mumbai and his email is aman@gmail.com.
 
-Output:
+### Output:
 
 {
+    
     "name": "Aman Verma",
     
     "age": 28,
@@ -63,14 +65,15 @@ Output:
     
     "email": "aman@gmail.com"
 }
-Example 2
 
-Input:
+### Example 2
+
+### Input:
 
 Priya Singh is 32 years old and works at Wipro.
 She lives in Delhi and her email is priya@gmail.com.
 
-Output:
+### Output:
 
 {
     "name": "Priya Singh",
