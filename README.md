@@ -54,9 +54,13 @@ Output:
 
 {
     "name": "Aman Verma",
+    
     "age": 28,
+    
     "company": "TCS",
+    
     "city": "Mumbai",
+    
     "email": "aman@gmail.com"
 }
 Example 2
@@ -70,9 +74,13 @@ Output:
 
 {
     "name": "Priya Singh",
+    
     "age": 32,
+    
     "company": "Wipro",
+    
     "city": "Delhi",
+    
     "email": "priya@gmail.com"
 }
 
@@ -84,12 +92,18 @@ Email is kminw@gmail.com.
 
 ## Sample Output
 {
+    
     "name": "Kang Min Woo",
+    
     "age": 32,
+    
     "company": "KIA",
+    
     "city": "Jeju",
+   
     "email": "kminw@gmail.com"
 }
+
 JSON Validation & Saving
 
 - The Gemini response is validated using Python's json.loads().
