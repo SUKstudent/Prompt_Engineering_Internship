@@ -1,6 +1,6 @@
 # Decode Labs
 ## Prompt Engineering
-## Zero-Shot & Few-Shot Data Extraction using Gemini
+## Task 1 - Zero-Shot & Few-Shot Data Extraction using Gemini
 
 ## Project Goal
 
