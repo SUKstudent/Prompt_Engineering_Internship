@@ -1,8 +1,5 @@
 # Prompt Engineering Internship Projects
 
-## Internship
-**DecodeLabs**
-
 This repository contains the projects completed during my Prompt Engineering Internship.
 
 ## Tasks
